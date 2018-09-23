@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            3art
+tagline:          'weekend projects for free'
+description:      'Nerd blog describing weekend projects with use of git'
+url:              http://talentit.github.io
+
+author:
+  name:           '3art'
+  url:            https://talentit.pl
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/talentIT/talentIT.github.io
