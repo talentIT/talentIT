@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            3art
+title:            3art tech blog
 tagline:          'weekend projects for free'
 description:      'Nerd blog describing weekend projects with use of git'
 url:              http://talentit.github.io
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/talentIT/talentIT.github.io
